@@ -1,4 +1,0 @@
-this is 1st stage 
-2nd
-line 3
-line 1 feature 1
